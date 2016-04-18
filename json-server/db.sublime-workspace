@@ -1,0 +1,731 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prom",
+				"promotions"
+			],
+			[
+				"get",
+				"getPromotion"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"ri",
+				"padding-right"
+			],
+			[
+				"col",
+				"colorsArray"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"boder",
+				"border-right"
+			],
+			[
+				"code",
+				"codecontainer"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"dat",
+				"database"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"product",
+				"productLine"
+			],
+			[
+				"post",
+				"postalcode"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"vedor",
+				"vendor"
+			],
+			[
+				"product_",
+				"product_code"
+			],
+			[
+				"o",
+				"output"
+			],
+			[
+				"pro",
+				"productcode"
+			],
+			[
+				"str_s",
+				"str_split"
+			],
+			[
+				"imagestr",
+				"imagestringup"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ran",
+				"randnum"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"rand",
+				"randnum_array"
+			],
+			[
+				"imagettf",
+				"imagettftext"
+			],
+			[
+				"imagefilled",
+				"imagefilledrectangle"
+			],
+			[
+				"imagec",
+				"imagecolorallocate"
+			],
+			[
+				"user",
+				"user_number"
+			],
+			[
+				"g",
+				"graph_name"
+			],
+			[
+				"gra",
+				"graph_scale"
+			],
+			[
+				"u",
+				"user_number"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"error",
+				"error_text"
+			],
+			[
+				"cha",
+				"characters"
+			],
+			[
+				"sess",
+				"session_name"
+			],
+			[
+				"set",
+				"setcookie"
+			],
+			[
+				"ses",
+				"session_name"
+			],
+			[
+				"mem",
+				"member_name"
+			],
+			[
+				"file",
+				"file_tmp_name"
+			],
+			[
+				"mo",
+				"move_uploaded_file"
+			],
+			[
+				"file_",
+				"file_type"
+			],
+			[
+				"err",
+				"error_text"
+			],
+			[
+				"us",
+				"user_file"
+			],
+			[
+				"sale",
+				"sales_rep"
+			],
+			[
+				"out",
+				"output_form"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"row",
+				"row_count"
+			],
+			[
+				"ro",
+				"row_count"
+			],
+			[
+				"cre",
+				"creditLimit"
+			],
+			[
+				"cus",
+				"customer_number"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"on",
+				"onblur	Attr"
+			],
+			[
+				"in",
+				"increment"
+			],
+			[
+				"start",
+				"startPause"
+			],
+			[
+				"star",
+				"startPause"
+			],
+			[
+				"hide",
+				"hideDebug"
+			],
+			[
+				"clear",
+				"clearOutput"
+			],
+			[
+				"ev",
+				"eventOutput"
+			],
+			[
+				"show",
+				"showDebug"
+			],
+			[
+				"debu",
+				"debugOnOff"
+			],
+			[
+				"gte",
+				"getElementById"
+			],
+			[
+				"sh",
+				"showDebug"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"cl",
+				"clearOutput"
+			],
+			[
+				"De",
+				"debugging"
+			],
+			[
+				"add",
+				"addEventOutputTracking"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"or",
+				"orderCost"
+			],
+			[
+				"v",
+				"validateQuantity"
+			],
+			[
+				"va",
+				"validatePhone"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"name",
+				"nameprompt"
+			],
+			[
+				"val",
+				"validateName"
+			],
+			[
+				"greet",
+				"greetUser"
+			],
+			[
+				"gree",
+				"greetingString"
+			],
+			[
+				"ne",
+				"number"
+			],
+			[
+				"gre",
+				"greetingString"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"userN",
+				"userNumber"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"loop",
+				"loopOutput"
+			],
+			[
+				"loo",
+				"loopOutput"
+			],
+			[
+				"num",
+				"numberInput"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson4/angular_conFusion4/app/scripts/services.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson4/angular_conFusion4/app/scripts/controllers.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson4/angular_conFusion4/gulpfile.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An3/app/scripts/controllers.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An3/app/views/aboutus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An3/app/scripts/services.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An3/app/views/home.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F3/html_conFusion/index-ok.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson4/db.json",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/gulpfile.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An3/app/scripts/app.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/views/menu.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/views/dishdetail.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/scripts/app.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/scripts/controllers.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/index.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/views/header.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/views/footer.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/scripts/services.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/menu.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/contactus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/dishdetail.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/index-original.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson3/angular_conFusion3/app/scripts/services-notFactory.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/scripts/app.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/scripts/app5.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/other5.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/other4.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/scripts/app4.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/scripts/app3.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/other3.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/scripts/app2.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/other2.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/scripts/app1.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/other1.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/dishdetail.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/app/scripts/app.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F2/html_conFusion/index-ok.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/angular_conFusion/app/scripts/app-original.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/dishdetail.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An2/app.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An1/angular_conFusion/app/dishdetail-ok.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F3/html_conFusion/other3.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F2/html_conFusion/other4.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F2/html_conFusion/contactus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An1/angular_conFusion/app/other7.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An1/angular_conFusion/app/other6.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson2/contactus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/app/contactus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F3/html_conFusion/other2.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F3/html_conFusion/other1.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F3/html_conFusion/index.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F3/html_conFusion/index-original.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/app/menu.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/grunt/angular_conFusion/app/menu.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/gulpfile.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/package.json",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/Gruntfile.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/.jshintrc",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/app/menu3.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/grunt/package.json",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/bower.json",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/index.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/css/mystyles.less",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/course5-node/nodeForCourse2/solve.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/course5-node/nodeForCourse2/quadratic.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/course5-node/nodeForCourse2/discriminant.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/course5-node/nodeForCourse2/simplequad.js",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/index-lesson4.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/css/mystyles.css",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F2/html_conFusion/other3.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F2/html_conFusion/other2.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F2/html_conFusion/other1.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/index-carousel.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F2/html_conFusion/index.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/aboutus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F2/html_conFusion/aboutus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/aboutus-tab.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An1/angular_conFusion/app/other5.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An1/angular_conFusion/app/other4.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An1/angular_conFusion/app/other3.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An1/angular_conFusion/app/other2.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/angular-3/An1/angular_conFusion/app/other1.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/app/dishdetail.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course3-AngularJS/lesson1/angular_conFusion/app/menu2.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F1/html_conFusion/other3.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F1/html_conFusion/other2.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F1/html_conFusion/aboutus-ok.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F1/html_conFusion/index-ok.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F1/html_conFusion/other1.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F1/html_conFusion/aboutus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/F2/html_conFusion/css/mystyles.css",
+		"/C/G/UC Davis/AJAX_G/lesson10_Yinyuan/index.php",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/contactus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/HTML-1/L3/03.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/HTML-1/L3/04.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/HTML-1/L3/02.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course2-FrontendUI/lesson1/html_conFusion/about Us.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/html_conFusion/aboutus.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/html_conFusion/index.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/conFusion/index.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-2/conFusion/css/mystyles.css",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/HTML-1/L2/part2ok.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/HTML-1/L2/part2.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/HTML-1/L2/part1.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/frontUI-1/conFusion/index.html",
+		"/C/Users/yinyuan/HTML5/HTML5.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/assignments/HTML-1/part3ok.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course1-HTML/lesson2/click.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course1-HTML/lesson2/a.html",
+		"/C/Users/yinyuan/Desktop/a.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course1-HTML/assignments/HTML-1/part1.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course1-HTML/assignments/HTML-1/part2.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course1-HTML/assignments/HTML-1/part4.html",
+		"/C/D/2011 CHS/Life/TOFEL/CertificateFromCoursera/Course1-HTML/assignments/HTML-1/part3.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"port"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "db.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
